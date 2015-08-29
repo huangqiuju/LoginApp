@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class User implements Serializable{
 	//add some comments
+	//add more comments
 	String userId;
 	String name;
 	
