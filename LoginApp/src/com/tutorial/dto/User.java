@@ -3,6 +3,7 @@ package com.tutorial.dto;
 import java.io.Serializable;
 
 public class User implements Serializable{
+	//add some comments
 	String userId;
 	String name;
 	
